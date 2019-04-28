@@ -1,33 +1,26 @@
-# web
+# 全家享商城小程序后端
 
+本小程序实现了基本的商城功能，包含后台管理系统、小程序端以及后端服务器(下方有传送门)
 
+# 技术栈
 
-## QuickStart
+taro + taro-ui + egg.js + mongodb + vue-cli
 
-<!-- add docs here for user -->
-
-see [egg docs][egg] for more detail.
-
-### Development
+# 项目运行
 
 ```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
+git clone https://github.com/Leesssssssss/egg-web.git
+
+cd egg-web
+
+npm install
+
+npm run dev
 ```
+# 全家享商城小程序前端传送门
 
-### Deploy
+[全家享商城小程序前端](https://github.com/Leesssssssss/web-taro)
 
-```bash
-$ npm start
-$ npm stop
-```
+# 全家享商城小程序后台管理系统传送门
 
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-- Use `npm run autod` to auto detect dependencies upgrade, see [autod](https://www.npmjs.com/package/autod) for more detail.
-
-
-[egg]: https://eggjs.org
+[全家享商城小程序后台管理系统](https://github.com/Leesssssssss/admin-web)
